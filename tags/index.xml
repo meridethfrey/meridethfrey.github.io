@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Merideth A. Frey</title>
+    <link>http://science.slc.edu/~mfrey/tags/</link>
+    <description>Recent content in Tags on Merideth A. Frey</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 M.A. Frey</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/~mfrey/tags/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>3d Print Files</title>
+      <link>http://science.slc.edu/~mfrey/tags/3d-print-files/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://science.slc.edu/~mfrey/tags/3d-print-files/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>http://science.slc.edu/~mfrey/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
+      
+      <guid>http://science.slc.edu/~mfrey/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://science.slc.edu/~mfrey/tags/hugo/</link>
+      <pubDate>Wed, 20 Apr 2016 11:00:00 +0000</pubDate>
+      
+      <guid>http://science.slc.edu/~mfrey/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Intro Mechanics</title>
+      <link>http://science.slc.edu/~mfrey/tags/intro-mechanics/</link>
+      <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://science.slc.edu/~mfrey/tags/intro-mechanics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low Cost Nmr Mri</title>
+      <link>http://science.slc.edu/~mfrey/tags/low-cost-nmr-mri/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://science.slc.edu/~mfrey/tags/low-cost-nmr-mri/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
